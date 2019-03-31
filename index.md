@@ -10,7 +10,7 @@ Aquest és la recopilació de documents compartits i col·laboratius.
 + [Col·lapsisme](/pagines/collapsisme) a càrrec de Josep Cabanyol
 
 + Enxarxament
-    + [Col·lectius](/gYDQlm41Rw-eqde675vFEw)
+    + [Col·lectius](/pagines/collectius.md)
     + [Taula 1](/KiRAUjinRcGF6Ngwn-Gahw)
     + [Taula 2](/4g0UJGIcRD2EDm3rdOkPAQ)
     + [Taula 3](/SrW234dITK29w2UQzVv8yA)
