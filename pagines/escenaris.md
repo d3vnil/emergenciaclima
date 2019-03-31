@@ -1,12 +1,9 @@
-Escenaris climàtics
-=== 
-
-Comencem amb una breu explicació de què és Cal Cases i normes generals.
-
-L'Àlex, de Cases ens comenta que està molt content de fer aquestes jornades aquí, ja que feia anys que no n'estaven fent.
+---
+title: Escenaris Climàtics
+layout: post
+--- 
 
 En **Jofre Carnicer**, científic del CREAF i professor de la UB.
-
 
 ## Primera part: tendències visuals
 
