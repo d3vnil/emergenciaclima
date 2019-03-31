@@ -1,8 +1,3 @@
----
-title: Escenaris Climàtics
-layout: post
---- 
-
 En **Jofre Carnicer**, científic del CREAF i professor de la UB.
 
 ## Primera part: tendències visuals
