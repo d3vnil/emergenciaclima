@@ -1,8 +1,3 @@
----
-title: Emergencia Clima
-layout: post
----
-
 Primera Trobada 2019
 ===
 
