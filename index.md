@@ -1,4 +1,8 @@
-Emergencia Climàtica
+---
+title: Emergencia Clima
+---
+
+Primera Trobada 2019
 ===
 
 Aquest és la recopilació de documents compartits i col·laboratius.
