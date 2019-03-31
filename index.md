@@ -1,24 +1,13 @@
 Emergencia Climàtica
 ===
 
-::: success
-Emergència Climàtica! :fire: :warning: 
-
 Aquest és la recopilació de documents compartits i col·laboratius.
-:::
-:::info
-Tothom hi pot participar i pot editar els continguts. Per fer-ho pots clicar en l'icona :pencil2: que veuràs en el menú superior de les diferents pàgines. Aquest **pad compartit** funciona amb syntaxis de tipus *markdown*, és molt senzilla, pots veure com funciona [aquí](/features)
-:::
-
-::: warning
-Gràcies, relatores! :revolving_hearts:  we love you
-:::
 
 # Dissabte
 
-+ [Escenaris climàtics](/yvbz7iISQoC7vqyMIsdoyg) a càrrec de Jofre Carnicer
-+ [25 anys de cimeres internacionals, per a què?](/NBbcHMssStWL-et08M8AuA) a càrrec d'Anna Pérez
-+ [Col·lapsisme](/5-9Nvn3yTnG1yrtqtTCNag) a càrrec de Josep Cabanyol
++ [Escenaris climàtics](/pagines/escenaris.md) a càrrec de Jofre Carnicer
++ [25 anys de cimeres internacionals, per a què?](/pagines/cimeres.md) a càrrec d'Anna Pérez
++ [Col·lapsisme](/pagines/collapsisme) a càrrec de Josep Cabanyol
 
 + Enxarxament
     + [Col·lectius](/gYDQlm41Rw-eqde675vFEw)
