@@ -1,24 +1,23 @@
-Primera Trobada 2019
-===
+Emergència Climàtica! :fire: :warning:
+
+Som conscients que totes tenim mil fronts oberts: multimilitància, criança, treball, etc…tot i així mai hem deixat de construir els mons que portem dins els nostres cors per a fer front al capitalisme-heteropatriarcal en les seves expressions més crues: el feixisme, les creixents desigualtats socioeconòmiques, el racisme, la guerra global contra les dones, l’esgotament dels recursos naturals i l’ecocidi. Però ara pensem necessari enmarcar les nostres accions dins dels creixents moviments “contra” el canvi climatic. I ho volem fer com hem après a fer les coses: entre totes.
+
+La idea general és oferir-nos un espai de formació, enxarxament i estratègia, per pensar col·lectivament com actuem juntes enfront el canvi climàtic.
+
+# Primera Trobada 2019
+
 
 Aquest és la recopilació de documents compartits i col·laboratius.
 
-# Dissabte
+## Dissabte
 
 + [Escenaris climàtics](/pagines/escenaris.md) a càrrec de Jofre Carnicer
 + [25 anys de cimeres internacionals, per a què?](/pagines/cimeres.md) a càrrec d'Anna Pérez
-+ [Col·lapsisme](/pagines/collapsisme) a càrrec de Josep Cabanyol
++ [Col·lapsisme](/pagines/collapsisme.md) a càrrec de Josep Cabanyol
 
 + Enxarxament
     + [Col·lectius](/pagines/collectius.md)
-    + [Taula 1](/KiRAUjinRcGF6Ngwn-Gahw)
-    + [Taula 2](/4g0UJGIcRD2EDm3rdOkPAQ)
-    + [Taula 3](/SrW234dITK29w2UQzVv8yA)
-    + [Taula 4](/VsbMMEJxTK2hdtAyDDYXtg)
-    + [Taula 5](/EBjoTII5TNa1R0Wx6Fb8Zw)
-    + [Taula 6](/4F0Z2YQPTF6uqzclk9UG3Q)
-+ [Plenari](/LxSftAzgRuybDCOoqUV1kA)
 
-# Diumenge
-+ [Priorització d'accions](/TC6jTL0jT962zHTsQ_PPSA)
-+ [Assamblea tancament](/Ou9X5ErrTpuz66iqp3oGMg)
+## Diumenge
++ [Priorització d'accions](/pagines/accions.md)
++ [Assamblea tancament](/pagines/assamblea.md)
