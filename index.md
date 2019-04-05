@@ -1,6 +1,6 @@
 # Emergència Climàtica
 
-![emergencia](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/alarma_clima.jpg)
+![emergencia](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/emergencia_cap.png)
 
 Som conscients que totes tenim mil fronts oberts: multimilitància, criança, treball, etc.
  
