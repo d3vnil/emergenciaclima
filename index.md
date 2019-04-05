@@ -1,8 +1,12 @@
+# Emergència Climàtica
+
 ![emergencia](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/alarma_clima.jpg)
 
 Emergència Climàtica! Som conscients que totes tenim mil fronts oberts: multimilitància, criança, treball, etc…tot i així mai hem deixat de construir els mons que portem dins els nostres cors per a fer front al capitalisme-heteropatriarcal en les seves expressions més crues: el feixisme, les creixents desigualtats socioeconòmiques, el racisme, la guerra global contra les dones, l’esgotament dels recursos naturals i l’ecocidi. Però ara pensem necessari enmarcar les nostres accions dins dels creixents moviments “contra” el canvi climatic. I ho volem fer com hem après a fer les coses: entre totes.
 
 La idea general és oferir-nos un espai de formació, enxarxament i estratègia, per pensar col·lectivament com actuem juntes enfront el canvi climàtic.
+
+---
 
 ## Trobada Cal Cases 2019
 
