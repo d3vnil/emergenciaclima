@@ -1,6 +1,8 @@
 25 anys de cimeres internacionals, per a què?
 ===
 
+[Document PDF de la xerrada](https://github.com/d3vnil/emergenciaclima/raw/master/materials/Presentaci%C3%B3%20Anna%20jornades%20canvi%20clim%C3%A0tic.pdf)
+
 ## Introducció
 Anna Pérez, ambientòloga i codirigeix (Clima Tracker Action) una organització experta amb les COPs i ativista del Moviment per la Justícia Climàtica
 
