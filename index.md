@@ -1,8 +1,16 @@
 ![emergencia](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/alarma_clima.jpg)
 
-Emergència Climàtica! Som conscients que totes tenim mil fronts oberts: multimilitància, criança, treball, etc…tot i així mai hem deixat de construir els mons que portem dins els nostres cors per a fer front al capitalisme-heteropatriarcal en les seves expressions més crues: el feixisme, les creixents desigualtats socioeconòmiques, el racisme, la guerra global contra les dones, l’esgotament dels recursos naturals i l’ecocidi. Però ara pensem necessari enmarcar les nostres accions dins dels creixents moviments “contra” el canvi climatic. I ho volem fer com hem après a fer les coses: entre totes.
+Som conscients que totes tenim mil fronts oberts: multimilitància, criança, treball, etc.
+ 
+Tot i això, mai hem deixat de construïr els mons que portem dins els nostres cors per a fer front al capitalisme-heteropatriarcal en les seves expressions més crues: el feixisme, les creixents desigualtats socioeconòmiques, el racisme, la guerra global contra les dones, l’esgotament dels recursos naturals i l’ecocidi. Però ara pensem necessari enmarcar les nostres accions dins dels creixents moviments “contra” el canvi climatic. I ho volem fer com hem après a fer les coses: **entre totes**.
 
 La idea general és oferir-nos un espai de formació, enxarxament i estratègia, per pensar col·lectivament com actuem juntes enfront el canvi climàtic.
+
+
+## Notes de premsa i manifestos
+
++ [Actuem juntes davant l'emergència climàtica](/pagines/manifest1.md)
+
 
 ## Trobada Cal Cases 2019
 
@@ -10,7 +18,7 @@ La idea general és oferir-nos un espai de formació, enxarxament i estratègia,
 
 Aquesta és la recopilació de notes agafades durant la trobada per relatores voluntaries. Alguns documents no estan finalitzats o requereixen de correcció. En cap cas entenem aquest recull com la documentació oficial de l'iniciativa emergencia climàtica.
 
-Els documents poden ser modificats i contribuïts per qualsevol mitjançant la plataforma http://github.com
+Els documents poden ser modificats i contribuïts per qualsevol mitjançant la plataforma [github.com](http://github.com).
 
 ### Dissabte
 
