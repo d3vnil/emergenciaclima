@@ -1,3 +1,5 @@
+# Emergència Climàtica
+
 ![emergencia](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/alarma_clima.jpg)
 
 Som conscients que totes tenim mil fronts oberts: multimilitància, criança, treball, etc.
@@ -5,7 +7,6 @@ Som conscients que totes tenim mil fronts oberts: multimilitància, criança, tr
 Tot i això, mai hem deixat de construïr els mons que portem dins els nostres cors per a fer front al capitalisme-heteropatriarcal en les seves expressions més crues: el feixisme, les creixents desigualtats socioeconòmiques, el racisme, la guerra global contra les dones, l’esgotament dels recursos naturals i l’ecocidi. Però ara pensem necessari enmarcar les nostres accions dins dels creixents moviments “contra” el canvi climatic. I ho volem fer com hem après a fer les coses: **entre totes**.
 
 La idea general és oferir-nos un espai de formació, enxarxament i estratègia, per pensar col·lectivament com actuem juntes enfront el canvi climàtic.
-
 
 ## Notes de premsa i manifestos
 
