@@ -1,5 +1,3 @@
-# Emergència Climàtica
-
 ![emergencia](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/emergencia_cap.png)
 
 Som conscients que totes tenim mil fronts oberts: multimilitància, criança, treball, etc.
@@ -10,10 +8,10 @@ La idea general és oferir-nos un espai de formació, enxarxament i estratègia,
 
 ## Notes de premsa i manifestos
 
-+ [Actuem juntes davant l'emergència climàtica](/pagines/manifest1.md)
++ [Actuem juntes davant l'emergència climàtica](/pagines/ndp.md)
 
 
-## Trobada Cal Cases 2019
+## Trobada 30 i 31 de Març 2019
 
 ![calcases](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/calcases.png)
 
