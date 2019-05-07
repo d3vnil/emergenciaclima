@@ -3,6 +3,8 @@ Col·lapsisme
 
 Xerrada a càrrec de Josep Cabanyol :telescope: 
 
+[Audio de la Xerrada] (https://cloud.disroot.org/s/RHD9bnaTELgqPsr)
+
 ## Introducció
 
 ::: success
