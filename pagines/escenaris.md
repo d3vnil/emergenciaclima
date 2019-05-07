@@ -1,5 +1,7 @@
 En **Jofre Carnicer**, científic del CREAF i professor de la UB.
 
+[Audio de la xerrada] (https://cloud.disroot.org/s/W8DiQaRZT6Jg4Cs)
+
 ## Primera part: tendències visuals
 
 Veiem un gràfic amb les concentracions de CO2. Es pot veure un gran impacte humà en aquestes concentracions, ens els últims 200 anys ha augmentat de forma exponencial.
