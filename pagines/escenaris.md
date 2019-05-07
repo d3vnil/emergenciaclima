@@ -1,6 +1,6 @@
 En **Jofre Carnicer**, científic del CREAF i professor de la UB.
 
-<a href="https://cloud.disroot.org/s/W8DiQaRZT6Jg4Cs">Audio de la xerrada</a>
+:sound:<a href="https://cloud.disroot.org/s/W8DiQaRZT6Jg4Cs">Audio de la xerrada</a>
 
 ## Primera part: tendències visuals
 
