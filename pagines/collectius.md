@@ -11,6 +11,11 @@ ENXARXAMENT
 <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/EEAACAT.jpg" align="right" width="30%" height="30%">
 
 <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/ProuSal.jpg" align="right" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/Rebelion%20por%20el%20clima.jpg" align="right" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/alarma_clima.jpg" align="right" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/XRBarcelona.jpg" align="right" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/XRGirona.jpg" align="right" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/XSE.jpg" align="right" width="30%" height="30%">
 
 #### RED EN TRANSICIÓN ESPAÑA
 Interconectar iniciatives per a que es coneguin i es potenciin. Cursos sociocràcia, facilitacio grups. Ara faran escaner per veure ànims actuals a les diferents iniciatives.
