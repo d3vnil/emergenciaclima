@@ -24,7 +24,6 @@ Temporalitat:
 4. 4. Valoració i seguiment
 
 Reunions tots els ultims diumenges de mes. 
-<img src="https://github.com/d3vnil/emergenciaclima/blob/master/imatges/formaci%C3%B3.jpg"  width="25%" height="25%">
 
 
 ## Grup 2: Acció directa
