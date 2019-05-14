@@ -215,4 +215,5 @@ Proposta per fer roda de premsa: Espai de trobada de persones que participen en 
 
 ## VALORACIÓ
 
-Es deixa escrit al full.
+![valoració](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/valoracio.png)
+
