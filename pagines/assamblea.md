@@ -215,6 +215,6 @@ DECIDIT PER CONCENS.
 Proposta per fer roda de premsa: Espai de trobada de persones que participen en aquests colectius: .... 
 
 ## VALORACIÓ
-<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/Valoracio.jpg" alt="alt text" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/Valoracio.jpg" align="center" width="50%" height="50%">
 
 
