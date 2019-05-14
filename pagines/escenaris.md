@@ -1,5 +1,9 @@
 En **Jofre Carnicer**, científic del CREAF i professor de la UB.
 
++ [visualitza](https://github.com/d3vnil/emergenciaclima/blob/master/materials/Jornada_cal_cases_Jofre_Carnicer.pdf)
+
++ [descarrega](https://github.com/d3vnil/emergenciaclima/raw/master/materials/Jornada_cal_cases_Jofre_Carnicer.pdf)
+
 :sound:<a href="https://cloud.disroot.org/s/W8DiQaRZT6Jg4Cs">Audio de la xerrada</a>
 
 ## Primera part: tendències visuals
