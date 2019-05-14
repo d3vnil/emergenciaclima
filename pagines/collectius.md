@@ -10,7 +10,7 @@ Interconectar iniciatives per a que es coneguin i es potenciin. Cursos sociocrà
 
 Pressió política per mesures més radicals en qualitat aire, a tot Catalunya però més centrat a BCN. Busquen unir forces. Propera acció: aprofiten inauguració Glòries per demanar més verd; aeroport, port. Busquen canviar el relat: vehicle elèctric no és la solució.
 
-#### FRIDAYS FOR FUTURE GIRONA <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/FFForFuture.jpg" align="left" width="30%" height="30%">
+#### FRIDAYS FOR FUTURE GIRONA <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/FFForFuture.jpg" align="right" width="30%" height="30%">
 
 Es reuneixen cada divendres pel moviment general per Greta Thunberg. Propera acció: aprofiten Fira de la Terra. 27S és la propera gran vaga a nivell internacional, després del 15M. Busquen que s'hi uneixin tots els moviments.
 
