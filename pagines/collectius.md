@@ -10,7 +10,8 @@ Interconectar iniciatives per a que es coneguin i es potenciin. Cursos sociocrà
 
 Pressió política per mesures més radicals en qualitat aire, a tot Catalunya però més centrat a BCN. Busquen unir forces. Propera acció: aprofiten inauguració Glòries per demanar més verd; aeroport, port. Busquen canviar el relat: vehicle elèctric no és la solució.
 
-#### FRIDAYS FOR FUTURE GIRONA
+#### FRIDAYS FOR FUTURE GIRONA <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/FFForFuture.jpg" align="left" width="30%" height="30%">
+
 Es reuneixen cada divendres pel moviment general per Greta Thunberg. Propera acció: aprofiten Fira de la Terra. 27S és la propera gran vaga a nivell internacional, després del 15M. Busquen que s'hi uneixin tots els moviments.
 
 #### PERMACULTURA ÍBERA
@@ -25,7 +26,7 @@ Pretenen apuntar els culpables reals, sense por. No poden fer doctorat però en 
 #### ECOLOGISTES EN ACCIÓ
 Confederació de local a global. Grups territorials: defensa territori, aigua, agroecologia, etc. Grups Catalunya: administracions, lobby pressió. Estat Espanyol i Internacional enxarxats. Propera acció: jornades ecofeministes Baix Llobregat i suport a altres plataformes.
 
-#### CLIMACCIÓ
+#### CLIMACCIÓ <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/Climaccio.jpg" align="right" width="30%" height="30%">
 Grup acció directa no violenta que sorgeix de la marxa pel clima 10N. Eixos estratègics: ecofeminisme, By 2020 we rise up. Grup en formació i definint estratègies: port i aeroport, indústria càrnica. Busquen connectar-se però ja estan en xarxa amb altres col·lectius a Bcn.
 
 #### FRIDAYS FOR FUTURE BARCELONA
