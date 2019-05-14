@@ -6,8 +6,7 @@ ENXARXAMENT
 #### RED EN TRANSICIÓN ESPAÑA
 Interconectar iniciatives per a que es coneguin i es potenciin. Cursos sociocràcia, facilitacio grups. Ara faran escaner per veure ànims actuals a les diferents iniciatives.
 
-#### QUALITAT DEL AIRE
-<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/PlataformaQualitatAire.jpg" align="right" width="30%" height="30%">
+#### QUALITAT DEL AIRE <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/PlataformaQualitatAire.jpg" align="right" width="30%" height="30%">
 
 Pressió política per mesures més radicals en qualitat aire, a tot Catalunya però més centrat a BCN. Busquen unir forces. Propera acció: aprofiten inauguració Glòries per demanar més verd; aeroport, port. Busquen canviar el relat: vehicle elèctric no és la solució.
 
