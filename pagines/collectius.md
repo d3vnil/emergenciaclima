@@ -2,13 +2,13 @@ ENXARXAMENT
 ===
 
 # Colectius assistents
-<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/PlataformaQualitatAire.jpg" align="right" align="top" width="30%" height="30%">
-<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/FFForFuture.jpg" align="right" align="top" width="30%" height="30%">
-<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/Climaccio.jpg" align="right" align="top" width="30%" height="30%">
-<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/AAPermacultura.jpg" align="right" align="top" width="30%" height="30%">
-<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/Bitxacs.jpg" align="right" align="top" width="30%" height="30%">
-<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/EEAACAT.jpg" align="right" align="top" width="30%" height="30%">
-<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/ProuSal.jpg" align="right" align="top" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/PlataformaQualitatAire.jpg" align="right"  width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/FFForFuture.jpg" align="right"  width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/Climaccio.jpg" align="right" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/AAPermacultura.jpg" align="right" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/Bitxacs.jpg" align="right"  width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/EEAACAT.jpg" align="right" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/ProuSal.jpg" align="right" width="30%" height="30%">
 #### RED EN TRANSICIÓN ESPAÑA
 Interconectar iniciatives per a que es coneguin i es potenciin. Cursos sociocràcia, facilitacio grups. Ara faran escaner per veure ànims actuals a les diferents iniciatives.
 
