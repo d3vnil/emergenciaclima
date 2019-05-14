@@ -3,14 +3,15 @@ ENXARXAMENT
 
 # Colectius assistents
 <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/PlataformaQualitatAire.jpg" align="right"  width="30%" height="30%">
-#### RED EN TRANSICIÓN ESPAÑA
-Interconectar iniciatives per a que es coneguin i es potenciin. Cursos sociocràcia, facilitacio grups. Ara faran escaner per veure ànims actuals a les diferents iniciatives.
 <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/FFForFuture.jpg" align="right"  width="30%" height="30%">
 <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/Climaccio.jpg" align="right" width="30%" height="30%">
+
 <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/AAPermacultura.jpg" align="right" width="30%" height="30%">
 <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/Bitxacs.jpg" align="right"  width="30%" height="30%">
 <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/EEAACAT.jpg" align="right" width="30%" height="30%">
+
 <img src="https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/ProuSal.jpg" align="right" width="30%" height="30%">
+
 #### RED EN TRANSICIÓN ESPAÑA
 Interconectar iniciatives per a que es coneguin i es potenciin. Cursos sociocràcia, facilitacio grups. Ara faran escaner per veure ànims actuals a les diferents iniciatives.
 
@@ -20,6 +21,8 @@ Pressió política per mesures més radicals en qualitat aire, a tot Catalunya p
 #### FRIDAYS FOR FUTURE GIRONA
 Es reuneixen cada divendres pel moviment general per Greta Thunberg. Propera acció: aprofiten Fira de la Terra. 27S és la propera gran vaga a nivell internacional, després del 15M. Busquen que s'hi uneixin tots els moviments.
 
+#### RED EN TRANSICIÓN ESPAÑA
+Interconectar iniciatives per a que es coneguin i es potenciin. Cursos sociocràcia, facilitacio grups. Ara faran escaner per veure ànims actuals a les diferents iniciatives.
 
 #### PERMACULTURA ÍBERA
 Dividits per bioregions, en secció climàtica. Agrupen colectius afins a permacultura per crear resiliencia. Busquen ampliar permacultura, sortir dels nuclis actuals. Promoure a nivell administratiu i privat.
