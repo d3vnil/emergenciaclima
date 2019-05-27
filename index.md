@@ -1,4 +1,4 @@
-![emergencia](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/emergencia_cap.png)
+![emergencia](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/Eines-per-actuar-juntesbaner.png)
 
 Som conscients que totes tenim mil fronts oberts: multimilitància, criança, treball, etc.
  
