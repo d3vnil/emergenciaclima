@@ -1,4 +1,4 @@
-![emergencia](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/Eines-per-actuar-juntesbaner.png)
+![emergencia](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/imatges/emergencia_cap.png)
 
 Som conscients que totes tenim mil fronts oberts: multimilitància, criança, treball, etc.
  
@@ -31,3 +31,8 @@ Els documents poden ser modificats i contribuïts per qualsevol mitjançant la p
 
 + [Priorització d'accions](/pagines/accions.md)
 + [Assamblea tancament](/pagines/assamblea.md)
+
+![emergenciaII](https://raw.githubusercontent.com/d3vnil/emergenciaclima/master/Eines-per-actuar-juntesbaner.png)
++ [Informació II Jornada](http://calcases.info/?p=410)
++ [Inscripcions II Jornada](https://framaforms.org/2na-jornada-emergencia-climatica-eines-per-actuar-juntes-1558029722)
+
